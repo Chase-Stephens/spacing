@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+.page1 {
+  display: flex;
+}
+.page1 .box1 {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  position: relative;
+  margin: 95px auto;
+}
+.page1 .box2 {
+  height: 150px;
+  width: 150px;
+  background-color: yellow;
+  position: relative;
+  margin: 0 0;
+}
+.page1 .box3 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+}
+.page2 {
+  display: flex;
+}
+.page2 .box1 {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  position: relative;
+}
+.page2 .box2 {
+  height: 150px;
+  width: 150px;
+  background-color: yellow;
+  position: absolute;
+  margin: 290px 0;
+}
+.page2 .box3 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+  margin: 150px 135px;
+}
+.page3 {
+  display: flex;
+}
+.page3 .box1 {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  position: absolute;
+  margin: 350px 340px;
+}
+.page3 .box2 {
+  height: 150px;
+  width: 150px;
+  background-color: yellow;
+  position: absolute;
+  margin: 300px 300px;
+}
+.page3 .box3 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+  margin: 200px 200px;
+}
+.page4 {
+  display: flex;
+}
+.page4 .box1 {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  position: absolute;
+  bottom: 0;
+  margin-left: 420px;
+}
+.page4 .box2 {
+  height: 150px;
+  width: 150px;
+  background-color: yellow;
+  position: absolute;
+  bottom: 120px;
+  left: 330px;
+}
+.page4 .box3 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+  bottom: 165px;
+  left: 560px;
+}
+.page5 {
+  display: flex;
+}
+.page5 .box1 {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  position: relative;
+  margin: 0 0;
+}
+.page5 .box2 {
+  height: 150px;
+  width: 150px;
+  background-color: yellow;
+  position: absolute;
+  margin: 120px 220px;
+}
+.page5 .box3 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: relative;
+  margin: 0 20px;
+}
+/*# sourceMappingURL=style.css.map */
